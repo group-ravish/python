@@ -1,7 +1,7 @@
 import boto3
 
-source_bucket_name = 'OpenInApp_Source'
-destination_bucket_name = 'OpenInApp_Destination'
+source_bucket_name = 'openinappsource'
+destination_bucket_name = 'openinappdestination'
 
 
 source_profile = 'OpenInApp_User1'
