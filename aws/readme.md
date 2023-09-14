@@ -2,12 +2,11 @@
 
 - Create 2 different users using the AWS IAM services
 - Install the AWS CLI to access AWS from the device using the following steps:
-	  - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html (Mac)
-  	                         (or)
-	  - curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
-	  - sudo installer -pkg AWSCLIV2.pkg -target /
-	  - which aws
-	  - aws --version
+- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html (Mac)
+- curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+- sudo installer -pkg AWSCLIV2.pkg -target /
+- which aws
+- aws --version
 - Install Python3
 - Download the Boto3 Python SDK for AWS CLI
 - To do this, download the Python packet manager, Pip
